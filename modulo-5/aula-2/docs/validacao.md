@@ -5,6 +5,8 @@
 
 O modelo que já construímos representa aquilo que o problema precisa?
 
+Sim. O modelo representa as principais necessidades do Essência Nova, pois relaciona o problema aos dados necessários, às entidades, aos atributos, aos relacionamentos e às regras do sistema.
+
 ## 1. Teste de rastreabilidade
 
 | Necessidade | Entidade | Atributo |
