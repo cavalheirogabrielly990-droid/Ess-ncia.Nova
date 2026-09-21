@@ -51,13 +51,13 @@ Problemas no trânsito → Motorista → Consulta uma rota → Localização e c
 ## 7. Participação das funções
 
 ### Backend
-Relaciona as ações e regras do sistema aos dados e realiza o processamento das informações.
+Processa os dados do trânsito, aplica as regras do sistema e envia as informações necessárias para o usuário.
 
 ### Frontend
-Apresenta as informações ao usuário e recebe os dados de entrada, como origem, destino e ocorrências.
+Mostra as rotas, informações do trânsito e alertas para o usuário e recebe os dados informados por ele.
 
 ### Banco de Dados
-Armazena e organiza os dados necessários para o funcionamento do sistema.
+Armazena e organiza os dados dos usuários, localização, rotas, velocidade, ocorrências, condições do trânsito, alertas e contatos de emergência.
 
 ## 8. Pergunta da aula
 
