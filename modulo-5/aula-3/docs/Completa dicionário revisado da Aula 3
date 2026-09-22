@@ -1,0 +1,16 @@
+# Módulo 5 — Aula 3
+## Histórico de Alterações
+
+| Versão | Alteração |
+|---|---|
+| 1.0 | Revisão das entidades do DER |
+| 1.1 | Adicionados data_cadastro e status em USUÁRIO |
+| 1.2 | Adicionados data_inicio e data_fim em VIAGEM |
+| 1.3 | Adicionados parentesco e email em CONTATO_CONFIANÇA |
+| 1.4 | Adicionados nível de risco, status e tipo de alerta em ALERTA |
+| 1.5 | Adicionado e-mail em AGENTE_TRÂNSITO |
+| 1.6 | Revisão das chaves, relacionamentos e cardinalidades |
+
+## Resultado
+
+O DER e o dicionário de dados foram revisados e sincronizados para representar as necessidades do projeto Essência Nova — Trânsito Inteligente.
