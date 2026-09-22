@@ -1,6 +1,10 @@
 # Módulo 5 — Aula 3
 ## Dicionário de Dados Revisado — Essência Nova
 
+PERGUNTA DA AULA 3
+RESPOSTA,
+O modelo deve ser revisado e ajustado de acordo com as descobertas das Aulas 1 e 2, corrigindo entidades, atributos, chaves, relacionamentos e cardinalidades. O DER e o dicionário de dados devem ficar sincronizados e representar corretamente as necessidades do projeto Essência Nova — Trânsito Inteligente.
+
 ### USUÁRIO
 - id_usuario — PK
 - nome
