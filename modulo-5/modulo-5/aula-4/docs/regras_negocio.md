@@ -5,6 +5,9 @@
 
 Quais regras o sistema precisa garantir sobre os dados?
 
+O sistema precisa garantir que os dados obrigatórios sejam preenchidos corretamente, que cada informação esteja relacionada à entidade certa e que os relacionamentos entre usuários, veículos, viagens, alertas, contatos, infrações e agentes de trânsito sejam mantidos corretamente.
+
+
 ## Regras de negócio
 
 1. Todo usuário deve possuir nome, e-mail e senha para utilizar o sistema.
