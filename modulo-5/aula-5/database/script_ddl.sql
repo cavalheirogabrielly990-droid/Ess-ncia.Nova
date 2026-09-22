@@ -1,5 +1,8 @@
 -- Módulo 5 — Aula 5
 -- Script DDL — Essência Nova
+PERGUNTA DA AULA 5 
+    -- RESPOSTA
+Transformando o modelo validado em um script DDL (script_ddl.sql), usando comandos CREATE TABLE e definindo os tipos de dados, chaves primárias (PK), chaves estrangeiras (FK) e restrições como NOT NULL e UNIQUE, respeitando a ordem dos relacionamentos entre as tabelas.
 
 CREATE TABLE usuario (
     id_usuario INT PRIMARY KEY,
