@@ -1,27 +1,28 @@
--- Módulo 5 — Aula 8
--- Script de dados de teste — Essência Nova
+-- Módulo 5 - Aula 8
+-- Script de dados de teste - Essência Nova
 
--- USUÁRIOS
 INSERT INTO usuario
 (id_usuario, nome, email, senha, tipo_usuario, data_cadastro, status)
 VALUES
-(1, 'Gaby Silva', 'gaby@email.com', 'senha123', 'motorista', CURRENT_DATE, 'ativo'),
-(2, 'Ana Souza', 'ana@email.com', 'senha456', 'motociclista', CURRENT_DATE, 'ativo');
+(1, 'Ana Silva', 'ana@email.com', '123456', 'motorista', CURRENT_DATE, 'ativo'),
+(2, 'Lucas Santos', 'lucas@email.com', '123456', 'motociclista', CURRENT_DATE, 'ativo'),
+(3, 'Maria Oliveira', 'maria@email.com', '123456', 'ciclista', CURRENT_DATE, 'ativo');
 
--- VEÍCULOS
 INSERT INTO veiculo
-(id_veiculo, id_usuario, placa, modelo, cor)
+(id_veiculo, id_usuario, placa, modelo, cor, ano)
 VALUES
-(1, 1, 'ABC1D23', 'Honda Civic', 'Preto'),
-(2, 2, 'XYZ4E56', 'Honda CG 160', 'Vermelho');
+(1, 1, 'ABC1D23', 'Fiat Argo', 'Branco', 2023),
+(2, 2, 'DEF4G56', 'Honda CG 160', 'Preto', 2022),
+(3, 1, 'GHI7J89', 'Chevrolet Onix', 'Prata', 2024);
 
--- VIAGENS
 INSERT INTO viagem
-(id_viagem, id_veiculo, id_usuario, origem, destino, data_inicio, data_fim)
+(id_viagem, id_veiculo, id_usuario, origem, destino, data_inicio, data_fim, distancia, tempo_estimado)
 VALUES
-(1, 1, 1, 'Maringá - Centro', 'Zona 7', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
-(2, 2, 2, 'Maringá - Zona 7', 'Universidade', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
+(1, 1, 1, 'Maringá - PR', 'Centro de Maringá - PR',
+ CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 8.5, 25),
 
+(2, 2, 2, 'Zona Norte - Maringá - PR', 'Centro de Maringá - PR',
+ CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 6.2, 20);
 
 -- CONTATOS DE CONFIANÇA
 INSERT INTO contato_confianca
