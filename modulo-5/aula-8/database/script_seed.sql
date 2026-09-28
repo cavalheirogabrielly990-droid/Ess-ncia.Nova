@@ -1,5 +1,7 @@
 -- Módulo 5 - Aula 8
 -- Script de dados de teste - Essência Nova
+Pergunta da aula:“Que dados precisamos inserir para provar que nosso banco representa situações reais do projeto?”
+ --resposta:Precisamos inserir dados de teste coerentes, como usuários, veículos, viagens, contatos, alertas, infrações, agentes de trânsito e serviços de emergência, representando diferentes situações do projeto.
 
 INSERT INTO usuario
 (id_usuario, nome, email, senha, tipo_usuario, data_cadastro, status)
