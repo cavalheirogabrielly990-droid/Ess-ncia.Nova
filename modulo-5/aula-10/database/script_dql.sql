@@ -1,6 +1,9 @@
 -- Módulo 5 - Aula 10
 -- DQL - Essência Nova — Trânsito Inteligente
-
+--Pergunta da aula:
+ “O que alguém envolvido no problema precisa conseguir descobrir consultando os dados?”
+     --Resposta:
+Precisa conseguir consultar informações como usuários, veículos, viagens, alertas, infrações e agentes de trânsito, usando filtros, JOINs e outras consultas para obter informações úteis sobre o trânsito.
 
 -- Pergunta 1: Quais infrações foram registradas?
 SELECT
