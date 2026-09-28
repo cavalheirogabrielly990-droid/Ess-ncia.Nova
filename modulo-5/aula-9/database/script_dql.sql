@@ -1,5 +1,7 @@
 -- Módulo 5 - Aula 9
 -- Script DQL - Essência Nova
+--pergunta da aula:“O nosso GitHub prova que compreendemos o negócio e conseguimos representá-lo por meio dos dados?”
+---resposta:Sim. O GitHub demonstra que compreendemos o problema do projeto e conseguimos representá-lo por meio dos dados, do DER, das regras de negócio e dos scripts DDL, Seed e DQL.
 
 -- 1. Consultar os usuários cadastrados
 SELECT
