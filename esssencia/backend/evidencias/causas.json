@@ -1,0 +1,82 @@
+[
+    {
+      "causa_principal": "Concentração de comércio e serviços",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Concentração de comércio e serviços no horário de almoço",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Concentração de deslocamentos matinais",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Concentração de deslocamentos para trabalho e escolas",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Concentração de veículos no fim do dia",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Deslocamentos entre bairros e áreas de trabalho",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Entrada de alunos e veículos particulares",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Entrada de estudantes e funcionários",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Fluxo de trabalhadores e estudantes",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Fluxo de veículos em direção a áreas de trabalho e estudo",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Fluxo de veículos no retorno para bairros residenciais",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Fluxo elevado no fim do expediente",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Grande fluxo de retorno para bairros",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Grande fluxo de veículos no início do expediente e das aulas",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Grande volume de veículos no fim do expediente",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Retorno do trabalho e atividades comerciais",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Retorno do trabalho e aumento das atividades comerciais",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Saída do centro e deslocamento para bairros",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Saída do centro e retorno para bairros",
+      "quantidade": 1
+    },
+    {
+      "causa_principal": "Saída e entrada de estudantes",
+      "quantidade": 1
+    }
+  ]

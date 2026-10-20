@@ -1,0 +1,14 @@
+[
+    {
+      "tipo_problema": "Trânsito intenso",
+      "quantidade": 10
+    },
+    {
+      "tipo_problema": "Horário de pico",
+      "quantidade": 7
+    },
+    {
+      "tipo_problema": "Trânsito escolar",
+      "quantidade": 3
+    }
+  ]

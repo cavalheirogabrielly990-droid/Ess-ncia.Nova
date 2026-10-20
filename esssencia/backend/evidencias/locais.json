@@ -1,0 +1,58 @@
+[
+    {
+      "local_exemplo": "Av. Brasil",
+      "quantidade": 3
+    },
+    {
+      "local_exemplo": "Av. Colombo",
+      "quantidade": 3
+    },
+    {
+      "local_exemplo": "Centro de Maringá",
+      "quantidade": 2
+    },
+    {
+      "local_exemplo": "Av. Morangueira",
+      "quantidade": 2
+    },
+    {
+      "local_exemplo": "Av. Cerro Azul",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Gastão Vidigal",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Kakogawa",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Herval",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Paraná",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Mandacaru",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. São Paulo",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Av. Tiradentes",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Região central",
+      "quantidade": 1
+    },
+    {
+      "local_exemplo": "Região da UEM",
+      "quantidade": 1
+    }
+  ]

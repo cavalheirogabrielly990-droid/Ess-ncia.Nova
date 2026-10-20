@@ -1,0 +1,21 @@
+id,tipo_problema,local_exemplo,descricao,causa_principal,impacto,medida_solucao
+1,Horário de pico,Av. Brasil,Trânsito intenso entre 07:00 e 09:00,Grande fluxo de veículos no início do expediente e das aulas,Aumento do tempo de deslocamento e congestionamentos,Sincronização semafórica e incentivo ao transporte coletivo
+2,Horário de pico,Av. Colombo,Trânsito intenso entre 17:00 e 19:00,Grande volume de veículos no fim do expediente,Filas e lentidão nas principais interseções,Ajuste dos tempos semafóricos e fiscalização
+3,Trânsito intenso,Av. Mandacaru,Movimento elevado entre 07:00 e 08:30,Concentração de deslocamentos para trabalho e escolas,Lentidão e aumento do tempo de viagem,Melhoria da sinalização e planejamento dos cruzamentos
+4,Trânsito intenso,Av. Morangueira,Movimento elevado entre 17:00 e 19:00,Fluxo de veículos no retorno para bairros residenciais,Formação de filas nos cruzamentos,Sincronização de semáforos
+5,Horário de pico,Centro de Maringá,Grande concentração de veículos entre 08:00 e 09:00,Concentração de comércio e serviços,Dificuldade de circulação e estacionamento,Ampliação de transporte coletivo e controle de estacionamento
+6,Trânsito intenso,Av. Paraná,Movimento elevado entre 17:00 e 19:00,Saída do centro e retorno para bairros,Redução da velocidade média,Melhoria da coordenação semafórica
+7,Trânsito escolar,Região central,Trânsito elevado entre 07:00 e 08:00,Entrada de alunos e veículos particulares,Filas próximas às escolas,Áreas de embarque e desembarque e fiscalização
+8,Trânsito escolar,Av. São Paulo,Trânsito elevado entre 12:00 e 13:30,Saída e entrada de estudantes,Retenção temporária do tráfego,Organização do embarque e desembarque
+9,Horário de pico,Av. Tiradentes,Trânsito intenso entre 17:00 e 19:00,Concentração de veículos no fim do dia,Aumento da retenção nos cruzamentos,Sincronização semafórica
+10,Trânsito intenso,Av. Kakogawa,Fluxo elevado entre 07:00 e 09:00,Deslocamentos entre bairros e áreas de trabalho,Lentidão nos horários de maior demanda,Revisão da sinalização e dos tempos semafóricos
+11,Trânsito intenso,Av. Gastão Vidigal,Fluxo elevado entre 17:00 e 19:00,Retorno do trabalho e atividades comerciais,Aumento das filas,Gestão inteligente do tráfego
+12,Trânsito intenso,Av. Cerro Azul,Movimento elevado entre 07:00 e 09:00,Concentração de deslocamentos matinais,Redução da velocidade e atrasos,Melhoria da sincronização semafórica
+13,Horário de pico,Av. Brasil,Trânsito intenso entre 17:00 e 19:00,Retorno do trabalho e aumento das atividades comerciais,Longos tempos de deslocamento,Operação de tráfego nos horários de pico
+14,Trânsito intenso,Av. Colombo,Movimento elevado entre 07:00 e 09:00,Fluxo de veículos em direção a áreas de trabalho e estudo,Formação de filas,Monitoramento e controle de tráfego
+15,Trânsito escolar,Região da UEM,Movimento elevado entre 07:00 e 08:30,Entrada de estudantes e funcionários,Retenção nas vias próximas,Gestão de circulação e transporte coletivo
+16,Trânsito intenso,Av. Herval,Movimento elevado entre 17:00 e 19:00,Saída do centro e deslocamento para bairros,Lentidão nos cruzamentos,Sincronização dos semáforos
+17,Horário de pico,Av. Brasil,Movimento elevado entre 07:00 e 09:00,Fluxo de trabalhadores e estudantes,Aumento do tempo de viagem,Melhoria do transporte público
+18,Trânsito intenso,Av. Morangueira,Movimento elevado entre 17:00 e 19:00,Grande fluxo de retorno para bairros,Filas e lentidão,Controle semafórico adaptativo
+19,Trânsito intenso,Centro de Maringá,Movimento elevado entre 12:00 e 14:00,Concentração de comércio e serviços no horário de almoço,Redução da fluidez do tráfego,Gestão de vagas e transporte coletivo
+20,Horário de pico,Av. Colombo,Trânsito intenso entre 17:00 e 19:00,Fluxo elevado no fim do expediente,Congestionamentos pontuais,Monitoramento em tempo real
