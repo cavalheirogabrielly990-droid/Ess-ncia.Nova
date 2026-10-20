@@ -1,23 +1,23 @@
-from pydantic import BaseModel, ConfigDict
 from datetime import date
+from typing import Optional
+from pydantic import BaseModel, EmailStr, Field
 
 
-class UsuarioCreate(BaseModel):
+# ==========================================
+# USUÁRIO
+# ==========================================
+class UsuarioBase(BaseModel):
     nome: str
-    email: str
-    senha: str
+    email: EmailStr
     tipo_usuario: str
-    data_cadastro: date
-    status: str
+    status: Optional[str] = "ativo"
 
 
-class UsuarioResponse(BaseModel):
+class UsuarioCreate(UsuarioBase):
+    senha: str
+    data_cadastro: Optional[date] = None
+
+
+class UsuarioResponse(UsuarioBase):
     id_usuario: int
-    nome: str
-    email: str
-    senha: str
-    tipo_usuario: str
-    data_cadastro: date
-    status: str
-
-    model_config = ConfigDict(from_attributes=True)
+    data_cadastro: Optional[date] = None
